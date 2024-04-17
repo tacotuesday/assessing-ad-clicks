@@ -1,4 +1,4 @@
-# assessing-ad-clicks
+# Assessing Online Ad Clicks
 Case study to assess online ad clicks for significance.
 
 ## The problem
