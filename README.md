@@ -51,5 +51,5 @@ Key findings from the analysis include:
 ## Licensing, Authors, and Acknowledgements
 
 * Data source: Provided by the stakeholder (simulated for this project)
-* This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/graftoncook)!
