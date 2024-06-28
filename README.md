@@ -47,7 +47,6 @@ Key findings from the analysis include:
 2. Ultramarine has the highest click-through rate, followed by Sapphire, Aquamarine, and Teal.
 3. The difference in click-through rates between Ultramarine and Blue is statistically significant.
 
-![Top color comparisons](path_to_barplot_of_top_colors.png)
 
 ## Licensing, Authors, and Acknowledgements
 
