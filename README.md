@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes the effectiveness of different text colors in a company's online advertisements. The goal is to determine if specific colors have significantly different click-through rates than the current blue text color.
+This project analyzes the effectiveness of different text colors in a company's online advertisements. The goal is to determine if specific colors have significantly different click-through rates than the current blue text color. To read more about the process, check out my blog post [The Color of Success: Optimizing Ad Click-Through Rates](https://tacotuesday.github.io/projects/the-color-of-success).
 
 ## Table of Contents
 
